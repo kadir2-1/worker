@@ -1,4 +1,4 @@
-# Shopify AI Storefront Generator
+# Shopify AI Storefront Generator (GÜNCELLENDİ: 16:15)
 
 Yapay zeka destekli Shopify tema oluşturucu.
 
